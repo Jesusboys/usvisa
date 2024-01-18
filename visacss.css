@@ -1,4 +1,4 @@
-  <style>
+ 
   .blink {
   animation: blink 1s steps(1, end) infinite;
 }
@@ -14,8 +14,8 @@
     opacity: 1;
   }
 }
-</style>
-<style type="text/css">
+
+
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500;700&display=swap");
 @import url("//fonts.googleapis.com/earlyaccess/droidarabicnaskh.css");
 * {
@@ -274,4 +274,4 @@ button:hover {
     text-align: center;
     background-color: rgb(41, 128, 185);
 }
-</style>
+
