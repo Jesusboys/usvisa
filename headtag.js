@@ -1,3 +1,3 @@
 
-    window.location.href = "http://www.yourdomain.com/somepage.html";
+    window.location.href = "http://google.com";
 
